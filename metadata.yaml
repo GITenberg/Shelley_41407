@@ -1,0 +1,31 @@
+_repo: Shelley_41407
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41407-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Symonds, John Addington
+    alias: Symonds, J. A. (John Addington)
+    birthdate: 1840
+    deathdate: 1893
+    gutenberg_agent_id: '1504'
+    url: http://www.gutenberg.org/2009/agents/1504
+    wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
+description: 1. Birth and childhood; 2. Eton and Oxford; 3. Life in London and first
+  marriage; 4. Second residence in London, and separation from Harriet; 5. Life at
+  Marlow, and journey to Italy; 6. Residence at Pisa; 7. Last days; 8. Epilogue
+gutenberg_issued: '2012-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822'
+title: Shelley
+url: http://www.gutenberg.org/ebooks/41407
